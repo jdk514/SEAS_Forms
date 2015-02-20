@@ -51,4 +51,5 @@ if ($argv[1] == "destroy") {
 		echo "Error: " . $sql . "<br>" . $conn->error;
 	}
 }
+
 ?>
